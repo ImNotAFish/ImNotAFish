@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 Bruh. [^1]
 
-[^1]: Yuh.
+[^1]: Yeet.
